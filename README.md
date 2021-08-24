@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @martinsqueff
-- 👀 I’m interested in new technogies
+- 👀 I’m interested in new technologies
 - 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me matosqueff@gmail.com or @martinsqueff
